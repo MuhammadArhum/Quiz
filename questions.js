@@ -3,11 +3,11 @@ let questions = [
     {
     numb: 1,
     question: "What is your country's name?",
-    answer: "Hyper Text Markup Language",
+    answer: "Pakistan",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
+      "Saudi Arabia",
+      "Turkey",
+      "Canada",
       "Pakistan"
     ]
   },
@@ -53,6 +53,17 @@ let questions = [
       "eXecutable Multiple Language",
       "eXTra Multi-Program Language",
       "eXamine Multiple Language"
+    ]
+  },
+      {
+    numb: 6,
+    question: "PM of Pakistan?",
+    answer: "Imran Khan",
+    options: [
+      "Imran Khan",
+      "Abbasi",
+      "Raza Guillani",
+      "Nawaz Sharif"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
